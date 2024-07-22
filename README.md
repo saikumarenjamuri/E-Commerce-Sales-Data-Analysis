@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Data-Analysis
+# E-Commerce-Sales-Data-Analysis-Using Power BI
 
 ### Project Overview:
  
@@ -11,7 +11,6 @@ Flipkart Sales Dataset- This dataset is initially available in "xlsx" format, wh
 
 ### Tools:
 
-- Excel    
 - Power BI
   
 ### Steps I have done in this Project:
